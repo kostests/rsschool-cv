@@ -18,7 +18,6 @@
  <br>
  <p>____________________________________________________________________________________________________</p>
  <br>
- <p>Skills: HTML, CSS, Java Script, C++</p>
- <br>
+<p>Skills: HTML, CSS, Java Script, C++</p>
 <p>Education: Brest State Technical University, Faculty of Economics, Marketer-programmer.</p>
 <p>English level A2-B1.</p>
